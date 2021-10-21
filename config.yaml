@@ -1,32 +1,31 @@
 baseURL: https://diegoalfaroinlondon.netlify.app/
 languageCode: en-us
-title: Portfolio Website of Diego
+title: Forty
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Diego Alfaro
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Diego, an MFA student from Peru, LatAm. I hope you enjoy all the content and innovation posted on my webpage.
+      Find all you need to know about me and more in this nimble and interactive R-based website.
+    title: I am Diego Alfaro
   blog: {}
   contact:
     address:
-      - city: London
-        country: Peru
+      - city: London, NW8 8NA
+        country: United Kingdom
         street: 91 Frampton Street
-        title: My Flat
-   # buttonClear: Clear
-    #buttonSend: Send message
+        title: Flat
+    buttonClear: Clear
+    buttonSend: Send
     email:
       - email: diegoa.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 7721-07587 x1234
-        title: Phone
+      - phone: +44 7721 07587
+        title: WhatsApp
   custom_css: []
   custom_js: []
   description: Your description
@@ -34,20 +33,20 @@ params:
     heading: Page couldn't be found
     text: Please visit [this page](/)
   favicon: favicon.ico
-  footer: 
-    copyright:
+  footer:
+    copyright: Company Name
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com/d.alfarolegonia
+  #    - icon: fa-twitter
+  #      label: Twitter
+  #      url: https://www.twitter.com
+  #    - icon: fa-facebook
+  #      label: Facebook
+  #      url: https://www.facebook.com
       - icon: fa-instagram
         label: Instagram
         url: https://www.instagram.com/diegoalfarolego/
@@ -58,56 +57,65 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com/in/diegoaal/
   image: ''
-  name: Diego Alfaro
+  name: Your name
   navigation:
-    button1:
-      # name: Get Started
-       # url: "project/project1"
-    button2:
-      # name: Log In
-       # url: Project2
+#    button1:
+#      - name: Get Started
+#        url: blogs
+#    button2:
+#      - name: Log In
+#        url: '#'
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      # name: Generic Blog
-       # url: Project3
-      # name: Elements
-       # url: Project4
+      - name: About
+        url: blogs/diego-alfaro
+      - name: Music
+        url: blogs/blog2
+#      - name: Before LBS
+#        url: blogs/before-lbs
+#      - name: Stocks
+#        url: blogs/stocks
+#      - name: Elements
+#        url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+#    subtitle: By HTML5 Up
+    title: Home
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: Now in London, UK
-        title: Diego, The Warrior
-        url: projects/Project4
-        - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
-      # image: pic03.jpg
-      #  subtitle: Lorem Etiam Nullam
-       # title: Magna
-        #url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
-      # image: pic05.jpg
-       # subtitle: Ipsum Dolor Sit Amet
-      #  title: Consequat
-       # url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: CV DIEGO
-        title: CV
-        url: blogs/cv.pdf
-  two:
-    buttonText: Get Started
-    enable: yes
-    subtitle: "something."
-    title: My personality
-    url: projects/project1
+      - image: b.jpg
+        subtitle: A brief introduction
+        title: About
+        url: blogs/diego-alfaro
+      - image: c.jpg
+        subtitle: Real Madrid, the best team in the world
+        title: Football in London
+        url: blogs/blog2
+#      - image: d.jpg
+#        subtitle: My pre-programme Data & Analytics assignment
+#        title: Before LBS
+#        url: blogs/before-lbs
+#      - image: e.jpg
+#        subtitle: Risk-Return Data & Analytics assignment
+#        title: Stocks
+#        url: blogs/stocks
+  #     - image: pic05.jpg
+  #      subtitle: Ipsum Dolor Sit Amet
+  #      title: Consequat
+  #      url: blogs/ipsum
+  #    - image: pic06.jpg
+  #      subtitle: Feugiat Amet Tempus
+  #      title: Etiam
+  #      url: blogs/ipsum
+  # two:
+  #   buttonText: Get Started
+  #   enable: yes
+  #   subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+  #     \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
+  #     condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+  #     pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
+  #     Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
+  #     amet pharetra et feugiat tempus."
+  #  title: Feel free to reach out 
+  #  url: blogs
