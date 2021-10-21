@@ -62,19 +62,19 @@ params:
   navigation:
     button1:
       - name: Get Started
-        url: blogs
+        url: Project/Project1
     button2:
       - name: Log In
-        url: '#'
+        url: Project2
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
       - name: Generic Blog
-        url: blogs/ipsum
+        url: Project3
       - name: Elements
-        url: elements.html
+        url: Project4
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
@@ -84,7 +84,7 @@ params:
       - image: lbs.jpg
         subtitle: Now in London, UK
         title: Diego, The Warrior
-        url: Projects/Project 1
+        url: Projects/Project1
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
@@ -115,4 +115,4 @@ params:
       Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
       amet pharetra et feugiat tempus."
     title: Massa libero
-    url: blogs
+    url: Project1
