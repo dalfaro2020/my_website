@@ -69,11 +69,11 @@ params:
       - name: Home
         url: '#'
       - name: About
-        url: blogs/diego-alfaro
-      - name: Music
-        url: blogs/blog2
-#      - name: Before LBS
-#        url: blogs/before-lbs
+        url: blogs/diego-alfaro.html
+      - name: realmadrid
+        url: blogs/realmadrid
+      - name: With the best professor in history of LBS
+        url: blogs/dataanalytics
 #      - name: Stocks
 #        url: blogs/stocks
 #      - name: Elements
@@ -87,11 +87,15 @@ params:
       - image: b.jpg
         subtitle: A brief introduction
         title: About
-        url: blogs/diego-alfaro
+        url: blogs/diego-alfaro.html
       - image: c.jpg
         subtitle: Real Madrid, the best team in the world
         title: Football in London
-        url: blogs/blog2
+        url: blogs/realmadrid
+      - image: datapunch.jpg
+        subtitle: Data Analytics, a fantastic course
+        title: With the best Professor in History of LBS
+        url: blogs/dataanalytics
 #      - image: d.jpg
 #        subtitle: My pre-programme Data & Analytics assignment
 #        title: Before LBS

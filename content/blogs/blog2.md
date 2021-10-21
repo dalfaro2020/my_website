@@ -7,6 +7,7 @@ description: I love football
 draft: false
 image: pic09.jpg
 keywords: ""
-slug: Real Madrid
+slug: realmadrid
 title: Spanish football
 ---
+Real Madrid is the strongest team in the world
