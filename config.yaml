@@ -62,7 +62,7 @@ params:
   navigation:
     button1:
       - name: Get Started
-        url: Project/Project1
+        url: "project/project1"
     button2:
       - name: Log In
         url: Project2
