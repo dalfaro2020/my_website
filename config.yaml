@@ -84,8 +84,8 @@ params:
       - image: lbs.jpg
         subtitle: Now in London, UK
         title: Diego, The Warrior
-        url: Projects/Project1
-      - image: pic02.jpg
+        url: "Projects/project1""
+        - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
         url: blogs/tempus
@@ -110,4 +110,4 @@ params:
     enable: yes
     subtitle: "xd."
     title: Massa libero
-    url: projects/project1
+    url: "projects/project1""
