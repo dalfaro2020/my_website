@@ -18,8 +18,8 @@ params:
         country: Peru
         street: 91 Frampton Street
         title: My Flat
-    buttonClear: Clear
-    buttonSend: Send message
+   # buttonClear: Clear
+    #buttonSend: Send message
     email:
       - email: diegoa.mfa2022@london.edu
         title: Email
@@ -84,30 +84,30 @@ params:
       - image: lbs.jpg
         subtitle: Now in London, UK
         title: Diego, The Warrior
-        url: "content/projects/project1"
+        url: projects/Project4
         - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+      # image: pic03.jpg
+      #  subtitle: Lorem Etiam Nullam
+       # title: Magna
+        #url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+      # image: pic05.jpg
+       # subtitle: Ipsum Dolor Sit Amet
+      #  title: Consequat
+       # url: blogs/ipsum
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: CV DIEGO
+        title: CV
+        url: blogs/cv.pdf
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "xd."
-    title: Massa libero
-    url: "projects/project1""
+    subtitle: "something."
+    title: My personality
+    url: projects/project1
