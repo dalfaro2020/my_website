@@ -61,20 +61,20 @@ params:
   name: Diego Alfaro
   navigation:
     button1:
-      - name: Get Started
-        url: "project/project1"
+      # name: Get Started
+       # url: "project/project1"
     button2:
-      - name: Log In
-        url: Project2
+      # name: Log In
+       # url: Project2
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: Project3
-      - name: Elements
-        url: Project4
+      # name: Generic Blog
+       # url: Project3
+      # name: Elements
+       # url: Project4
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
