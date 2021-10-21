@@ -84,7 +84,7 @@ params:
       - image: lbs.jpg
         subtitle: Now in London, UK
         title: Diego, The Warrior
-        url: "Projects/project1""
+        url: "content/projects/project1"
         - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
